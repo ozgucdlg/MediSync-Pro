@@ -25,7 +25,7 @@ A full-stack Hospital Management System built with Angular and Express.js, featu
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [https://github.com/ozgucdlg/MediSync-Pro.git]
 cd hospital-management-system
 ```
 
